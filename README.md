@@ -3,7 +3,7 @@
 Tools for comparing and analyzing the topology of biological networks
 
 ## Getting Started
-is able to compute most important network topological features, from node-based measures such as: different centralities to whole network-based measures such as: network density, diameter, for analytical and comparative purposes. 
+CatbNet is able to compute most important network topological features, from node-based measures such as: different centralities to whole network-based measures such as: network density, diameter, for analytical and comparative purposes. 
 You can use this tool by downloading its python source code.
 This tool is created using python 2.7
 
@@ -59,4 +59,8 @@ As a Test Data, you can test network files of grouped networks in directory: tes
 This project is licensed under the LBB License - It is free to use for only researching goals.
 For more details contact:
 * e.pournoor@ut.ac.ir
+Ehsan Pournoor
+Laboratory of Bioinformatics and Systems Biology (LBB)
+Institute of Biochemistry and Biophysics
+University of Tehran
 
