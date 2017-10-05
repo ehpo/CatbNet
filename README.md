@@ -51,7 +51,7 @@ In the case you want to compare network groups, you should check option 'network
 
 ### Test Application
 
-As a Test Data, you can test network files of grouped networks in directory: test-data
+As a Test Data, you can test network files of grouped networks in .rar file: test-data.rar
 
 
 ## License
