@@ -58,9 +58,13 @@ As a Test Data, you can test network files of grouped networks in directory: tes
 
 This project is licensed under the LBB License - It is free to use for only researching goals.
 For more details contact:
-* e.pournoor@ut.ac.ir
+
+```
 Ehsan Pournoor
+
+Email: e.pournoor@ut.ac.ir
 Laboratory of Bioinformatics and Systems Biology (LBB)
 Institute of Biochemistry and Biophysics
 University of Tehran
+```
 
